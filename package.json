@@ -1,0 +1,23 @@
+{
+  "name": "zCompact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "json",
+    "compact",
+    "compress",
+    "zod",
+    "serialize",
+    "deserialize"
+  ],
+  "author": "Mihir Gokani",
+  "license": "MIT",
+  "dependencies": {
+    "zod": "^3.22.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.7",
+    "typescript": "^5.2.2"
+  }
+}
